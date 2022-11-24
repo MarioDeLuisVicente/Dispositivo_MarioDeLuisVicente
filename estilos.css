@@ -1,0 +1,75 @@
+
+ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+
+html {
+    font-size: 115%;
+    font-size: larger;
+    font-style:normal;
+}
+li{
+    float: left;
+    padding: 1em;
+  
+    margin-bottom: 1em;
+
+}
+
+li:first-child{
+    border-left: none;
+}
+
+body{
+    max-width: 1500px;
+    margin: 0 auto;
+    font-weight:bold;
+    
+
+}
+
+header img{
+
+    width: 100%;
+
+}
+
+h1 {
+    color: rgba(34, 22, 95, 0.931);    
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+h2{
+    color:darkgoldenrod;
+    border-bottom: 1px solid rgba(148, 148, 54, 0.931);
+    font-style:oblique;
+
+}
+
+div{
+    margin-left:15.5cm; 
+    color: red;
+    padding: 50px 50px;
+    margin-left: 14cm;
+
+
+}
+
+
+header{
+    background-color: rgba(8, 62, 19, 0.25);
+    
+}
+
+
+nav{
+        margin-left: 9cm;
+    }
+
+#dispositivo{
+    margin-left: 15.5cm;
+    font-weight:bolder;
+    border-bottom: 2px;
+}
